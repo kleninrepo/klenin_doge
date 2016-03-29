@@ -1,7 +1,7 @@
 {
   "name": "klenin",
   "main": "./lib/doge",
-  "version": "0.1.3",
+  "version": "0.0.1",
   "description": "Hey, minus bal, opozdal",
   "keywords": [
     "doge",
@@ -16,7 +16,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {},
-  "readme": "# doge - such atom package\n\nDoge is a Atom Package that shows you a picture of doge if your cursor is currently on the word \"doge\" (See screenshot). This plugin is essential for Doge fans everywhere and everyone who would consider themselves to be \"wow.\"\n\n_Much Atom. So text. wow._\n\n![wow](https://raw.githubusercontent.com/tylerl0706/Doge-Atom-Package/master/assets/screen_shot.png)\n\n## Installation\n\nYou can install the plugin using the following command:\n\n`apm install doge`\n\nor you can go to `preferences -> install` and search for:\n\n`doge`\n\nthen simply install it!\n\n## Usage\n\nIf you ever want to not be wow, you can always toggle Doge off by either running:\n\n`doge:wow me` in the command palette\n\nor\n\ngoing to `packages -> doge -> wow me`\n\nboth of which toggles Doge on and off.\n",
+  "readme": "#Hey, minus bal, opozdal\n",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/tylerl0706/Doge-Atom-Package/issues"
