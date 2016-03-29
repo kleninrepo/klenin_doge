@@ -1,0 +1,43 @@
+{
+  "name": "klenin",
+  "main": "./lib/doge",
+  "version": "0.1.3",
+  "description": "Hey, minus bal, opozdal",
+  "keywords": [
+    "doge",
+    "wow"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleninrepo/klenin_doge.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "readme": "# doge - such atom package\n\nDoge is a Atom Package that shows you a picture of doge if your cursor is currently on the word \"doge\" (See screenshot). This plugin is essential for Doge fans everywhere and everyone who would consider themselves to be \"wow.\"\n\n_Much Atom. So text. wow._\n\n![wow](https://raw.githubusercontent.com/tylerl0706/Doge-Atom-Package/master/assets/screen_shot.png)\n\n## Installation\n\nYou can install the plugin using the following command:\n\n`apm install doge`\n\nor you can go to `preferences -> install` and search for:\n\n`doge`\n\nthen simply install it!\n\n## Usage\n\nIf you ever want to not be wow, you can always toggle Doge off by either running:\n\n`doge:wow me` in the command palette\n\nor\n\ngoing to `packages -> doge -> wow me`\n\nboth of which toggles Doge on and off.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tylerl0706/Doge-Atom-Package/issues"
+  },
+  "homepage": "https://github.com/kleninrepo/klenin_doge",
+  "_id": "doge@0.1.3",
+  "_shasum": "131e19822f0aef8b34ac5516ae6a1e693e33623f",
+  "_resolved": "file:..\\d-116229-5652-18mh67u\\package.tgz",
+  "_from": "..\\d-116229-5652-18mh67u\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib\\doge-view.coffee",
+        "lib\\doge.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
