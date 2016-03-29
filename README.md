@@ -1,8 +1,8 @@
-# doge - such atom package
+#klenin
 
-Doge is a Atom Package that shows you a picture of doge if your cursor is currently on the word "doge" (See screenshot). This plugin is essential for Doge fans everywhere and everyone who would consider themselves to be "wow."
+Klenin - is package, based on another stupid atom package named "doge". I just replace doge for Alexander Sergeevich.
 
-_Much Atom. So text. wow._
+_Happy coding._
 
 ![wow](https://raw.githubusercontent.com/tylerl0706/Doge-Atom-Package/master/assets/screen_shot.png)
 
@@ -10,22 +10,10 @@ _Much Atom. So text. wow._
 
 You can install the plugin using the following command:
 
-`apm install doge`
+`apm install klenin`
 
 or you can go to `preferences -> install` and search for:
-
-`doge`
+dog
+`klenin`
 
 then simply install it!
-
-## Usage
-
-If you ever want to not be wow, you can always toggle Doge off by either running:
-
-`doge:wow me` in the command palette
-
-or
-
-going to `packages -> doge -> wow me`
-
-both of which toggles Doge on and off.
