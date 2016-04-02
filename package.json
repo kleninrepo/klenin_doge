@@ -1,7 +1,7 @@
 {
   "name": "klenin",
   "main": "./lib/doge",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Hey, minus bal, opozdal",
   "keywords": [
     "doge",
