@@ -4,8 +4,8 @@
   "version": "2.0.0",
   "description": "Hey, minus bal, opozdal",
   "keywords": [
-    "doge",
-    "wow"
+    "klenin",
+    "pmi"
   ],
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "readme": "#Hey, minus bal, opozdal\n",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/tylerl0706/Doge-Atom-Package/issues"
+    "url": "https://github.com/kleninrepo/klenin_doge"
   },
   "homepage": "https://github.com/kleninrepo/klenin_doge",
   "_id": "doge@0.1.3",
