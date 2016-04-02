@@ -31,6 +31,4 @@ module.exports = Doge =
     dogeViewState: @dogeView.serialize()
 
   wow_me: ->
-    @dogeDecoration.destroy()
-    @subscriptions.dispose()
-    @dogeView.destroy()
+    Doge.dogeDecoration.destroy()
