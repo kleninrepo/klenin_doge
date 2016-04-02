@@ -4,7 +4,7 @@ Klenin - is package, based on another stupid atom package named "doge". I just r
 
 _Happy coding._
 
-![klenin](https://github.com/kleninrepo/klenin_doge/tree/master/assets/screen_shot.png)
+![klenin](https://raw.githubusercontent.com/kleninrepo/klenin_doge/master/assets/screen_shot.png)
 
 ## Installation
 
