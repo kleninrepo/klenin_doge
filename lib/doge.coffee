@@ -12,7 +12,7 @@ module.exports = Doge =
     @subscriptions = new CompositeDisposable
 
     # Register command that toggles this view
-    @subscriptions.add atom.commands.add 'atom-workspace', 'doge:wow me': => @wow_me()
+    @subscriptions.add atom.commands.add 'atom-workspace', 'Klenin:Klenin': => @wow_me()
 
     atom.workspace.observeTextEditors (editor) ->
       editor.observeCursors (cursor) ->
@@ -31,4 +31,6 @@ module.exports = Doge =
     dogeViewState: @dogeView.serialize()
 
   wow_me: ->
-    console.log 'wow'
+    @dogeDecoration.destroy()
+    @subscriptions.dispose()
+    @dogeView.destroy()
